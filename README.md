@@ -6,7 +6,7 @@ This repository holds the MySQL database schema for OldEgg, an e-commerce platfo
 
 **Database Schema**
 
-The schema consists of several tables representing various entities within the e-commerce system. Here's a high-level overview of the tables (refer to the `sql` directory for detailed table definitions):
+The schema consists of several tables representing various entities within the e-commerce system. 
 
 **Prerequisites**
 
